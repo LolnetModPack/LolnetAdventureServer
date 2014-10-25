@@ -1,0 +1,3 @@
+[submodule "config"]
+	path = LolnetAdventurePack
+	url = https://github.com/LolnetModPack/LolnetAdventurePack.git
